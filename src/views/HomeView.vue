@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue'
 import FileUpload from '../components/FileUpload.vue'
 import ChatService from '../components/ChatService.vue'
