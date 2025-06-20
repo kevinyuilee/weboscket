@@ -22,7 +22,7 @@ const joinChat = () => {
 
       <div class="chat-section">
         <div v-if="!userName" class="join-chat">
-          <h3>加入聊天室</h3>
+          <h3>加入聊天室哈哈哈哈哈</h3>
           <div class="input-group">
             <input
               v-model="inputName"
